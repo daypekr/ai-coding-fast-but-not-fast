@@ -32,14 +32,14 @@
 
 ---
 
-## 2. Seven, eight months in — how my work pattern has changed
+## 2. How AI coding shifts a developer's work pattern
 
-- **Touching source code by hand has dropped to two or three times a month.**
-- Even when I tell myself "I should just write this myself," it doesn't last:
+- **Once developers get used to AI assistance, the time spent writing source code by hand drops sharply.**
+- Even with the resolve to "just write this myself," it rarely sticks. Why:
   - A feature is scattered across files. Find → open → read → locate the edit point — that overhead piles up.
   - Add DB schema lookups and the tool-switching cost balloons.
-  - I already know AI will handle all that grunt work in one natural-language command, so manual coding feels frustrating.
-- **Conclusion**: human nature (least effort) makes the drift toward AI inevitable. Not reversible.
+  - Knowing AI will handle all that grunt work in one natural-language command makes manual coding feel frustrating.
+- **Conclusion**: human nature (least effort) makes the drift toward AI natural and hard to reverse.
 
 > **Example — when manual coding starts to feel painful**
 > A simple request: "add a refund-status column to the order list."
